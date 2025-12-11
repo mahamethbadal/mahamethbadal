@@ -71,7 +71,9 @@ I'm a passionate **Software Engineer and Web Developer** from Somalia.<br><br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mahamethbadal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mahamethbadal&theme=dracula&row=1&column=-1" height="220" alt="GitHub Trophies"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahamethbadal&theme=dracula&row=1&column=-1&no-frame=false&no-bg=false" height="220" alt="GitHub Trophies"/>
 </div>
 
 ---
