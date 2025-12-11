@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mahamethbadal.mahamethbadal" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamedbadel.mohamedbadel" alt="visitor badge"/>
 </div>
 
 ---
@@ -70,14 +70,7 @@ I'm a passionate **Software Engineer and Web Developer** from Somalia.<br><br>
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahamethbadal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahamethbadal&theme=dracula&row=1&column=-1&no-frame=false&no-bg=false" height="220" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=mohamedbadel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak"/>
+
 </div>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahamethbadal/mahamethbadal/output/pacman-contribution-graph.svg" alt="Contribution Graph" width="100%"/>
-</p>
