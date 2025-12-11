@@ -71,11 +71,11 @@ I'm a passionate **Software Engineer and Web Developer** from Somalia.<br><br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mohamedbadel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedbadel&theme=dracula&row=1&column=-1" height="220" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mahamethbadal&theme=dracula&row=1&column=-1" height="220" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohamedbadel/mohamedbadel/output/pacman-contribution-graph.svg" alt="Contribution Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/mohamedbadel/mohamethbadal/output/pacman-contribution-graph.svg" alt="Contribution Graph" width="100%"/>
 </p>
