@@ -67,10 +67,3 @@ I'm a passionate **Software Engineer and Web Developer** from Somalia.<br><br>
 
 ---
 
-<h3 align="left">🔥 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamedbadel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak"/>
-
-</div>
-
