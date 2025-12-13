@@ -58,7 +58,6 @@ I'm a passionate **Software Engineer and Web Developer** from Somalia.<br><br>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="Docker"/>
   <img width="12"/>
